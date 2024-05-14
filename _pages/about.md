@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Durham University Dept. of Computer Science
+subtitle: PhD Student, Dept. of Computer Science, Durham University
 
 profile:
   align: right
