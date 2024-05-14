@@ -2,24 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student, Durham University Dept. of Computer Science
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: headshot.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>PhD Student</p>
+    <p>Scientific Computing Group</p>
+    <p>Dept. of Computer Science</p>
+    <p>Durham University</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my site!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a PhD student in the [Scientific Computing Group](https://scicomp.webspace.durham.ac.uk/) at Durham University, UK. I'm interested in developing tools for modelling and understanding the performance of task-based parallel programs. My research forms part of the ["Exposing parallelism: Task Parallelism"](https://excalibur.ac.uk/projects/exposing-parallelism-task-parallelism/) project within the UK's ExCALIBUR research programme.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I completed my M.Sc. in [Scientific Computing and Data Analysis](https://miscada.webspace.durham.ac.uk/) at Durham University. For my thesis project I developed an OMPT plugin for tracing & visualising the structure of OpenMP programs.
+
+Alongside my research, I'm involved in a few other activities:
+
+- I provide teaching demonstration support in my department.
+- I am a certified [Carpentries Instructor](https://carpentries.org/).
+- I serve as Secretary of Durham's [SIAM-IMA student chapter](https://siam-ima.webspace.durham.ac.uk/).
+
+On my **[blog](blog)**, I share articles/opinions/how-tos that I think somebody might find interesting, but which don't belong in a thesis or paper.
+
+Check out my **[projects](projects)** page where I showcase one or two projects I'm particularly proud of!
+
+In my spare time I love reading, going hiking, and playing boardgames.
